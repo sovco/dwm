@@ -1,0 +1,13 @@
+*
+!.gitignore
+!LICENSE
+!Makefile
+!config.h
+!drw.c
+!drw.h
+!dwm.c
+!shiftview.c
+!transient.c
+!util.c
+!util.h
+!vanitygaps.c
